@@ -16,7 +16,7 @@ bool rainDetected = false;
 int smoisture = 0;
 bool smoke = false;
 // Pin configurations
-#define DHTPIN 4            // DHT11 data pin
+#define DHTPIN 5            // DHT11 data pin
 #define DHTTYPE DHT11       // DHT11 sensor type
 #define SOIL_SENSOR_PIN 34  // Soil moisture sensor pin (analog)
 #define GAS_SENSOR_PIN 35   // MQ2 gas sensor pin (analog)
