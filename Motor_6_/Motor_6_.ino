@@ -1,11 +1,11 @@
 
 
-#define PUMP_PIN_N 5
-#define PUMP_PIN_P 16
-#define PUMP_PIN_K 17
-#define PUMP_PIN_pH 18
-#define PUMP_PIN 19
-#define PUMP_PIN2 21
+#define PUMP_PIN_N 16
+#define PUMP_PIN_P 17
+#define PUMP_PIN_K 18
+#define PUMP_PIN_pH 19
+#define PUMP_PIN 21
+#define PUMP_PIN2 22
 
 void setup() {
 
