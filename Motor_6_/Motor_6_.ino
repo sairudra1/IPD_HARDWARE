@@ -1,14 +1,11 @@
-
-
-#define PUMP_PIN_N 16
-#define PUMP_PIN_P 17
-#define PUMP_PIN_K 18
-#define PUMP_PIN_pH 19
-#define PUMP_PIN 21
-#define PUMP_PIN2 22
+#define PUMP_PIN_N   18
+#define PUMP_PIN_P   19
+#define PUMP_PIN_K   23
+#define PUMP_PIN_pH  25
+#define PUMP_PIN     26
+#define PUMP_PIN2    27
 
 void setup() {
-
   
   pinMode(PUMP_PIN, OUTPUT);
   pinMode(PUMP_PIN2, OUTPUT);
